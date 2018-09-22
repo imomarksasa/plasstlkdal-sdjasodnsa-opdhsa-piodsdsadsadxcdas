@@ -1423,4 +1423,4 @@ if (err) console.error(err);
 
 
 
-client.login('NDc2ODA5ODI5NjA0Nzg2MTg2.DoeocA.oCbREXczMcWE04fbk50mOVa3GXU')
+client.login(process.env.BOT_TOKEN)
