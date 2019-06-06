@@ -30,7 +30,7 @@ client.on('message', message => {
 
 
 
-
+//
 
 client.on('ready', () => {                           
 client.user.setGame(`=help |=invite |=support`,'https://www.twitch.tv/fofodiscord');                                                                                                                                                                                                                                                                                                                                                                                                                            
